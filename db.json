@@ -89,6 +89,21 @@
           "price": 3000
         }
       ]
+    },
+    {
+      "id": "6",
+      "image": "/assets/img/dory.png",
+      "title": "Rice Bowl Dory Hot",
+      "price": 20000,
+      "category": "makanan",
+      "desc": "Rice bowl dory merupakan perpaduan nasi khas jepang dengan potongan dory yang digoreng renyah disertai saos khas jepang yang gurih dan nikmat.",
+      "extras": [
+        {
+          "id": 1,
+          "name": "Kerupuk",
+          "price": 3000
+        }
+      ]
     }
   ],
   "checkout": [
