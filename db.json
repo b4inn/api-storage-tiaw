@@ -42,7 +42,7 @@
     },
     {
       "id": "2",
-      "image": "/assets/img/tamago.png",
+      "image": "/assets/img/bowltamago.png",
       "title": "Rice Bowl Tamago",
       "price": 20000,
       "category": "makanan",
@@ -82,7 +82,7 @@
     },
     {
       "id": "3",
-      "image": "/assets/img/dory.png",
+      "image": "/assets/img/bowldory.png",
       "title": "Rice Bowl Dory",
       "price": 20000,
       "category": "makanan",
@@ -162,7 +162,7 @@
     },
     {
       "id": "11",
-      "image": "/assets/img/dory.png",
+      "image": "/assets/img/ayamgeprek.png",
       "title": "Nasi Ayam Geprek",
       "price": 14000,
       "category": "makanan",
@@ -202,7 +202,7 @@
     },
     {
       "id": "5",
-      "image": "/assets/img/dory.png",
+      "image": "/assets/img/karage.png",
       "title": "Chicken Karage",
       "price": 11000,
       "category": "makanan",
@@ -242,7 +242,7 @@
     },
     {
       "id": "6",
-      "image": "/assets/img/dory.png",
+      "image": "/assets/img/dorycrispi.png",
       "title": "Dory Crispy",
       "price": 8000,
       "category": "makanan",
@@ -282,7 +282,7 @@
     },
     {
       "id": "7",
-      "image": "/assets/img/dory.png",
+      "image": "/assets/img/friedchicken.png",
       "title": "Fried Chicken",
       "price": 12000,
       "category": "makanan",
@@ -322,7 +322,7 @@
     },
     {
       "id": "8",
-      "image": "/assets/img/dory.png",
+      "image": "/assets/img/shirmpdumpling.png",
       "title": "Shrimp Dumpling",
       "price": 18000,
       "category": "makanan",
@@ -362,7 +362,7 @@
     },
     {
       "id": "9",
-      "image": "/assets/img/dory.png",
+      "image": "/assets/img/frenchfriesh",
       "title": "French Fries",
       "price": 10000,
       "category": "makanan",
@@ -402,7 +402,7 @@
     },
     {
       "id": "10",
-      "image": "/assets/img/dory.png",
+      "image": "/assets/img/tahubakso.png",
       "title": "Tahu Bakso",
       "price": 12000,
       "category": "makanan",
@@ -442,7 +442,7 @@
     },
     {
       "id": "11",
-      "image": "/assets/img/dory.png",
+      "image": "/assets/img/nasiputih.png",
       "title": "Nasi Putih",
       "price": 3000,
       "category": "makanan",
@@ -450,15 +450,16 @@
     },
     {
       "id": "12",
-      "image": "/assets/img/dory.png",
-      "title": "Nasi Dory",
+      "image": "/assets/img/nasinori.png",
+      "title": "Nasi Nori",
       "price": 6000,
       "category": "makanan",
       "desc": "hidangan lengkap yang terdiri dari nasi putih hangat yang disajikan dengan potongan ikan dory yang digoreng hingga renyah. "
     },
+
     {
       "id": "13",
-      "image": "/assets/img/kopiub.png",
+      "image": "/assets/img/esteh.png",
       "title": "Ice Original Teh",
       "price": 8000,
       "category": "minuman",
@@ -478,7 +479,7 @@
     },
     {
       "id": "14",
-      "image": "/assets/img/kopiub.png",
+      "image": "/assets/img/tehtarik.png",
       "title": "Ice Teh Tarik",
       "price": 20000,
       "category": "minuman",
@@ -558,7 +559,7 @@
     },
     {
       "id": "18",
-      "image": "/assets/img/kopiub.png",
+      "image": "/assets/img/cappucino.png",
       "title": "Ice Cappucino",
       "price": 18000,
       "category": "minuman",
@@ -579,7 +580,7 @@
    
     {
       "id": "20",
-      "image": "/assets/img/kopiub.png",
+      "image": "/assets/img/milo.png",
       "title": "Ice Milo",
       "price": 20000,
       "category": "minuman",
