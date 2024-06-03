@@ -10,13 +10,33 @@
       "extras": [
         {
           "id": 1,
-          "name": "Telur Dadar",
-          "price": 5000
+          "name": "Cheese Sauce",
+          "price": 4000
         },
         {
           "id": 2,
-          "name": "Kerupuk",
+          "name": "Sambal Bawang",
           "price": 3000
+        },
+        {
+          "id": 3,
+          "name": "Curry Sauce",
+          "price": 4000
+        },
+        {
+          "id": 4,
+          "name": "Saos Spicy",
+          "price": 3000
+        },
+        {
+          "id": 5,
+          "name": "Blackpepper",
+          "price": 4000
+        },
+        {
+          "id": 6,
+          "name": "Teriyaki",
+          "price": 4000
         }
       ]
     },
@@ -30,13 +50,454 @@
       "extras": [
         {
           "id": 1,
-          "name": "Kerupuk",
+          "name": "Cheese Sauce",
+          "price": 4000
+        },
+        {
+          "id": 2,
+          "name": "Sambal Bawang",
           "price": 3000
+        },
+        {
+          "id": 3,
+          "name": "Curry Sauce",
+          "price": 4000
+        },
+        {
+          "id": 4,
+          "name": "Saos Spicy",
+          "price": 3000
+        },
+        {
+          "id": 5,
+          "name": "Blackpepper",
+          "price": 4000
+        },
+        {
+          "id": 6,
+          "name": "Teriyaki",
+          "price": 4000
         }
       ]
     },
     {
       "id": "3",
+      "image": "/assets/img/dory.png",
+      "title": "Rice Bowl Dory",
+      "price": 20000,
+      "category": "makanan",
+      "desc": "Rice bowl dory merupakan perpaduan nasi khas jepang dengan potongan dory yang digoreng renyah disertai saos khas jepang yang gurih dan nikmat.",
+      "extras": [
+        {
+          "id": 1,
+          "name": "Cheese Sauce",
+          "price": 4000
+        },
+        {
+          "id": 2,
+          "name": "Sambal Bawang",
+          "price": 3000
+        },
+        {
+          "id": 3,
+          "name": "Curry Sauce",
+          "price": 4000
+        },
+        {
+          "id": 4,
+          "name": "Saos Spicy",
+          "price": 3000
+        },
+        {
+          "id": 5,
+          "name": "Blackpepper",
+          "price": 4000
+        },
+        {
+          "id": 6,
+          "name": "Teriyaki",
+          "price": 4000
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "image": "/assets/img/dory.png",
+      "title": "Rice Bowl Dory Hot",
+      "price": 20000,
+      "category": "makanan",
+      "desc": "Rice bowl dory merupakan perpaduan nasi khas jepang dengan potongan dory yang digoreng renyah disertai saos khas jepang yang gurih dan nikmat.",
+      "extras": [
+        {
+          "id": 1,
+          "name": "Cheese Sauce",
+          "price": 4000
+        },
+        {
+          "id": 2,
+          "name": "Sambal Bawang",
+          "price": 3000
+        },
+        {
+          "id": 3,
+          "name": "Curry Sauce",
+          "price": 4000
+        },
+        {
+          "id": 4,
+          "name": "Saos Spicy",
+          "price": 3000
+        },
+        {
+          "id": 5,
+          "name": "Blackpepper",
+          "price": 4000
+        },
+        {
+          "id": 6,
+          "name": "Teriyaki",
+          "price": 4000
+        }
+      ]
+    },
+    {
+      "id": "11",
+      "image": "/assets/img/dory.png",
+      "title": "Nasi Ayam Geprek",
+      "price": 14000,
+      "category": "makanan",
+      "desc": " hidangan khas Indonesia yang terdiri dari ayam goreng tepung yang digeprek atau diulek dengan sambal pedas. ",
+      "extras": [
+        {
+          "id": 1,
+          "name": "Cheese Sauce",
+          "price": 4000
+        },
+        {
+          "id": 2,
+          "name": "Sambal Bawang",
+          "price": 3000
+        },
+        {
+          "id": 3,
+          "name": "Curry Sauce",
+          "price": 4000
+        },
+        {
+          "id": 4,
+          "name": "Saos Spicy",
+          "price": 3000
+        },
+        {
+          "id": 5,
+          "name": "Blackpepper",
+          "price": 4000
+        },
+        {
+          "id": 6,
+          "name": "Teriyaki",
+          "price": 4000
+        }
+      ]
+    },
+    {
+      "id": "5",
+      "image": "/assets/img/dory.png",
+      "title": "Chicken Karage",
+      "price": 11000,
+      "category": "makanan",
+      "desc": "Potongan ayam yang dibumbui dan digoreng dengan tepung hingga renyah, cocok untuk camilan atau lauk tambahan.",
+      "extras": [
+        {
+          "id": 1,
+          "name": "Cheese Sauce",
+          "price": 4000
+        },
+        {
+          "id": 2,
+          "name": "Sambal Bawang",
+          "price": 3000
+        },
+        {
+          "id": 3,
+          "name": "Curry Sauce",
+          "price": 4000
+        },
+        {
+          "id": 4,
+          "name": "Saos Spicy",
+          "price": 3000
+        },
+        {
+          "id": 5,
+          "name": "Blackpepper",
+          "price": 4000
+        },
+        {
+          "id": 6,
+          "name": "Teriyaki",
+          "price": 4000
+        }
+      ]
+    },
+    {
+      "id": "6",
+      "image": "/assets/img/dory.png",
+      "title": "Dory Crispy",
+      "price": 8000,
+      "category": "makanan",
+      "desc": "Fillet ikan dory yang digoreng hingga renyah, bisa dinikmati sebagai camilan atau tambahan lauk pada hidangan utama.",
+      "extras": [
+        {
+          "id": 1,
+          "name": "Cheese Sauce",
+          "price": 4000
+        },
+        {
+          "id": 2,
+          "name": "Sambal Bawang",
+          "price": 3000
+        },
+        {
+          "id": 3,
+          "name": "Curry Sauce",
+          "price": 4000
+        },
+        {
+          "id": 4,
+          "name": "Saos Spicy",
+          "price": 3000
+        },
+        {
+          "id": 5,
+          "name": "Blackpepper",
+          "price": 4000
+        },
+        {
+          "id": 6,
+          "name": "Teriyaki",
+          "price": 4000
+        }
+      ]
+    },
+    {
+      "id": "7",
+      "image": "/assets/img/dory.png",
+      "title": "Fried Chicken",
+      "price": 12000,
+      "category": "makanan",
+      "desc": " hidangan klasik yang terdiri dari potongan ayam yang dilapisi dengan tepung berbumbu kemudian digoreng hingga renyah dan berwarna keemasan.",
+      "extras": [
+        {
+          "id": 1,
+          "name": "Cheese Sauce",
+          "price": 4000
+        },    
+        {
+          "id": 2,
+          "name": "Sambal Bawang",  
+          "price": 3000
+        },
+        {
+          "id": 3,
+          "name": "Curry Sauce",
+          "price": 4000
+        },
+        {
+          "id": 4,
+          "name": "Saos Spicy",
+          "price": 3000
+        },
+        {
+          "id": 5,
+          "name": "Blackpepper",
+          "price": 4000
+        },
+        {
+          "id": 6,
+          "name": "Teriyaki",
+          "price": 4000
+        }
+      ]
+    },
+    {
+      "id": "8",
+      "image": "/assets/img/dory.png",
+      "title": "Shrimp Dumpling",
+      "price": 18000,
+      "category": "makanan",
+      "desc": "hidangan dim sum khas Asia yang terdiri dari adonan tepung tipis yang diisi dengan campuran udang cincang segar, sayuran, dan bumbu-bumbu.",
+      "extras": [
+        {
+          "id": 1,
+          "name": "Cheese Sauce",
+          "price": 4000
+        },
+        {
+          "id": 2,
+          "name": "Sambal Bawang",
+          "price": 3000
+        },
+        {
+          "id": 3,
+          "name": "Curry Sauce",
+          "price": 4000
+        },
+        {
+          "id": 4,
+          "name": "Saos Spicy",
+          "price": 3000
+        },
+        {
+          "id": 5,
+          "name": "Blackpepper",
+          "price": 4000
+        },
+        {
+          "id": 6,
+          "name": "Teriyaki",
+          "price": 4000
+        }
+      ]
+    },
+    {
+      "id": "9",
+      "image": "/assets/img/dory.png",
+      "title": "French Fries",
+      "price": 10000,
+      "category": "makanan",
+      "desc": " camilan klasik yang terdiri dari potongan kentang yang digoreng hingga renyah dan berwarna keemasan. ",
+      "extras": [
+        {
+          "id": 1,
+          "name": "Cheese Sauce",
+          "price": 4000
+        },
+        {
+          "id": 2,
+          "name": "Sambal Bawang",
+          "price": 3000
+        },
+        {
+          "id": 3,
+          "name": "Curry Sauce",
+          "price": 4000
+        },
+        {
+          "id": 4,
+          "name": "Saos Spicy",
+          "price": 3000
+        },
+        {
+          "id": 5,
+          "name": "Blackpepper",
+          "price": 4000
+        },
+        {
+          "id": 6,
+          "name": "Teriyaki",
+          "price": 4000
+        }
+      ]
+    },
+    {
+      "id": "10",
+      "image": "/assets/img/dory.png",
+      "title": "Tahu Bakso",
+      "price": 12000,
+      "category": "makanan",
+      "desc": "makanan ringan yang terdiri dari tahu yang diisi dengan campuran daging bakso, menciptakan kombinasi tekstur lembut dan kenyal yang lezat. Tahu yang digunakan biasanya adalah tahu putih yang dipotong menjadi kotak-kotak, kemudian bagian tengahnya diisi dengan adonan bakso yang terbuat dari daging sapi atau ayam cincang yang dicampur dengan bumbu-bumbu seperti bawang putih, merica, garam, dan tepung kanji.",
+      "extras": [
+        {
+          "id": 1,
+          "name": "Cheese Sauce",
+          "price": 4000
+        },
+        {
+          "id": 2,
+          "name": "Sambal Bawang",
+          "price": 3000
+        },
+        {
+          "id": 3,
+          "name": "Curry Sauce",
+          "price": 4000
+        },
+        {
+          "id": 4,
+          "name": "Saos Spicy",
+          "price": 3000
+        },
+        {
+          "id": 5,
+          "name": "Blackpepper",
+          "price": 4000
+        },
+        {
+          "id": 6,
+          "name": "Teriyaki",
+          "price": 4000
+        }
+      ]
+    },
+    {
+      "id": "11",
+      "image": "/assets/img/dory.png",
+      "title": "Nasi Putih",
+      "price": 3000,
+      "category": "makanan",
+      "desc": "hidangan pokok yang terdiri dari beras yang dimasak hingga empuk dan fluffy, disajikan dalam keadaan hangat. Beras yang digunakan biasanya adalah beras putih yang sudah dicuci bersih kemudian dimasak dengan air hingga matang sempurna."
+    },
+    {
+      "id": "12",
+      "image": "/assets/img/dory.png",
+      "title": "Nasi Dory",
+      "price": 6000,
+      "category": "makanan",
+      "desc": "hidangan lengkap yang terdiri dari nasi putih hangat yang disajikan dengan potongan ikan dory yang digoreng hingga renyah. "
+    },
+    {
+      "id": "13",
+      "image": "/assets/img/kopiub.png",
+      "title": "Ice Original Teh",
+      "price": 8000,
+      "category": "minuman",
+      "desc": "minuman teh populer Malaysia yang terbuat dari teh hitam dan susu kental manis, ditarik untuk membuat bagian atasnya berbusa.",
+      "extras": [
+        {
+          "id": 1,
+          "name": "Gula",
+          "price": 2000
+        },
+        {
+          "id": 2,
+          "name": "Es",
+          "price": 2000
+        }
+      ]
+    },
+    {
+      "id": "14",
+      "image": "/assets/img/kopiub.png",
+      "title": "Ice Teh Tarik",
+      "price": 20000,
+      "category": "minuman",
+      "desc": "minuman teh populer Malaysia yang terbuat dari teh hitam dan susu kental manis, ditarik untuk membuat bagian atasnya berbusa.",
+      "extras": [
+        {
+          "id": 1,
+          "name": "Gula",
+          "price": 2000
+        },
+        {
+          "id": 2,
+          "name": "Es",
+          "price": 2000
+        }
+      ]
+    },
+    {
+      "id": "15",
       "image": "/assets/img/coffee.png",
       "title": "Ice Kopi Susu",
       "price": 10000,
@@ -56,7 +517,7 @@
       ]
     },
     {
-      "id": "4",
+      "id": "16",
       "image": "/assets/img/americano.png",
       "title": "Ice Americano",
       "price": 10000,
@@ -76,36 +537,68 @@
       ]
     },
     {
-      "id": "5",
-      "image": "/assets/img/dory.png",
-      "title": "Rice Bowl Dory",
-      "price": 20000,
-      "category": "makanan",
-      "desc": "Rice bowl dory merupakan perpaduan nasi khas jepang dengan potongan dory yang digoreng renyah disertai saos khas jepang yang gurih dan nikmat.",
+      "id": "17",
+      "image": "/assets/img/kopiub.png",
+      "title": "Ice Kopi UB Coffe",
+      "price": 15000,
+      "category": "minuman",
+      "desc": " minuman es kopi menyegarkan yang terbuat dari biji kopi berkualitas tinggi, diseduh sempurna dan dicampur dengan susu dan pemanis untuk menciptakan rasa yang lembut dan kaya.",
       "extras": [
         {
           "id": 1,
-          "name": "Kerupuk",
-          "price": 3000
+          "name": "Gula",
+          "price": 2000
+        },
+        {
+          "id": 2,
+          "name": "Es",
+          "price": 2000
         }
       ]
     },
     {
-      "id": "6",
-      "image": "/assets/img/dory.png",
-      "title": "Rice Bowl Dory Hot",
-      "price": 20000,
-      "category": "makanan",
-      "desc": "Rice bowl dory merupakan perpaduan nasi khas jepang dengan potongan dory yang digoreng renyah disertai saos khas jepang yang gurih dan nikmat.",
+      "id": "18",
+      "image": "/assets/img/kopiub.png",
+      "title": "Ice Cappucino",
+      "price": 18000,
+      "category": "minuman",
+      "desc": " minuman kopi klasik, dicampur dengan susu lembut dan lembut dan disajikan dingin. Di atasnya terdapat busa ringan, memberikan pengalaman minum kopi yang menyegarkan dan menyegarkan, sempurna untuk kapan saja sepanjang hari.",
       "extras": [
         {
           "id": 1,
-          "name": "Kerupuk",
-          "price": 3000
+          "name": "Gula",
+          "price": 2000
+        },
+        {
+          "id": 2,
+          "name": "Es",
+          "price": 2000
+        }
+      ]
+    },
+   
+    {
+      "id": "20",
+      "image": "/assets/img/kopiub.png",
+      "title": "Ice Milo",
+      "price": 20000,
+      "category": "minuman",
+      "desc": "Minuman cokelat Milo yang disajikan dingin dengan es.",
+      "extras": [
+        {
+          "id": 1,
+          "name": "Gula",
+          "price": 2000
+        },
+        {
+          "id": 2,
+          "name": "Es",
+          "price": 2000
         }
       ]
     }
   ],
+
   "checkout": [
     {
       "id": "5eb9",
